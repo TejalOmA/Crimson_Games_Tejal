@@ -1,6 +1,6 @@
 # Player Activity Analysis 🎮  
 
-In this project, I have used MongoDB to analyze player activity data for a mobile game, focusing on player retention 📊 across two consecutive days: November 13th and 14th, 2024. 
+In this project, I have used MongoDB to analyze player activity data for a mobile game 🕹️ , focusing on player retention across two consecutive days: November 13th and 14th, 2024. 📊 
 
 ### Steps 🛠️ 
 
